@@ -10,4 +10,6 @@ Outputs from the script:
 
 This script can take as many Otter.ai transcript text files as you want for input. It will merge all the timestamps across the transcripts into one timeline as if all the transcripts belong to the same conversation. So you can input only one text file to analyze one conversation, or multiple files to analyze overall first occurrence over all conversations for a project. Make sure to input the file names in chronological order of the sessions when prompted to input file names!
 
+Sample input files are provided for you to experiment with the script.
+
 !! Important: the script assumes your text files come with Otter.ai branding at the end. If they don't, please comment out "parsed_data = parsed_data[:-2]" at line 187
