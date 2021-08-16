@@ -3,6 +3,7 @@ This script is used to count first occurrences of words per speaker within a mee
 
 Input to the script: 
 - text files generated from https://otter.ai/home
+
 Outputs from the script:
 - a line graph showing the first occurrence count of each speaker overtime, based on the discrete timestamps given in the Otter transcripts
 - a csv raw data file detailing every unique word spoken in the transcripts, when it was first spoken, and who said it (every row contains the first occurrence information of a unique word spoken in the conversation)
