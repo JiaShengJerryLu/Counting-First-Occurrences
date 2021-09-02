@@ -1,0 +1,37 @@
+Bob  0:02  
+Hello there, my name is Bob.
+
+Joe  0:06  
+Hey Bob, how are you doing?
+
+Bob  0:10  
+I am doing well, thank you. Let's get started with our design project.
+
+Joe  0:19  
+All right, let's do it. Where shall we start?
+
+Bob  0:26  
+Let's start by looking at this flange over here, and make sure it is strong enough to support this weight.
+
+Joe  0:39  
+Yes, good idea. Let's do that.
+
+Bob  0:43  
+Can you start up SolidWorks. Let's look at the model.
+
+Joe  0:51  
+Sure thing, Bob. Let me get my computer and start up SolidWorks and look at the flange.
+
+Bob  1:04  
+Looks like it is good enough to support the weight.
+
+Joe  1:11  
+Now we should investigate how much weight the whole structure can hold.
+
+Bob  1:23  
+Yes, great idea. Can you also can you open the file that has the whole assembly.
+
+Joe  1:37  
+Yes. Coming right up.
+
+Transcribed by https://otter.ai
