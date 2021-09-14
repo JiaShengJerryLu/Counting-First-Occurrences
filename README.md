@@ -12,4 +12,6 @@ This script can take as many Otter.ai transcript text files as you want for inpu
 
 Sample input files are provided for you to experiment with the script.
 
-!! Important: the script assumes your text files come with Otter.ai branding at the end. If they don't, please comment out "parsed_data = parsed_data[:-2]" at line 187
+!! Important !!: 
+1. the script assumes your text files come with Otter.ai branding at the end. If they don't, please comment out "parsed_data = parsed_data[:-2]" at line 187
+2. there must be no double whitespaces ("  ") anywhere in the input text files except those separating the speaker name, timestamp, and spoken paragraphs, since the script uses those double whitespaces to distinguish between those three types of information, which is just how Otter formats the text file. When editing your Otter transcripts, be sure to not accidentally leave any double whitespaces in the transcribed text
